@@ -10,8 +10,9 @@
 - [Key Insights](#key-insights)
 ### Project Overview
 The goal of this project is to visualize population and migration trends using data from the United Nations. The dashboard allows users to interact with the data, choose specific years, regions, and variables, and analyze migration and population flows in an intuitive and informative way.
-![pop](https://github.com/user-attachments/assets/147cec13-c69e-4768-9bfb-e9384b47bf07)
+
 ![newplot](https://github.com/user-attachments/assets/8818ede8-e8ab-4492-91b7-95fe7af054ae)
+![pop](https://github.com/user-attachments/assets/147cec13-c69e-4768-9bfb-e9384b47bf07)
 
 
 ### Datasets:
